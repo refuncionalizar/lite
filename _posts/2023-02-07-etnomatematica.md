@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "#EmentaEtnomatemática"
-tags: "#ementas"
+tags: ementas
 ---
 
 ## Contexto
