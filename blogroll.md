@@ -4,6 +4,20 @@ title: Blogroll
 permalink: /blogroll/
 ---
 
-![shot](https://user-images.githubusercontent.com/8435623/34344912-0665d490-ea2e-11e7-9bd8-919a6ced2a40.png)
+#Blogroll
 
-Ultralight is super-lightweight responsive super Jekyll theme.
+## Organizações
+
+[The New Centre](https://thenewcentre.org/)
+
+[Coalizão Direitos na Rede](https://direitosnarede.org.br/)
+
+[Intervozes](https://intervozes.org.br/)
+
+[MariaLab](https://www.marialab.org/)
+
+[FNDC - Fórum Nacional pela Democratização da Comunicação](https://fndc.org.br/)
+
+## Blogs
+
+[Even Prometheus Started Small - Filipe Felizardo](https://evenprometheusstartedsmall.wordpress.com/)
