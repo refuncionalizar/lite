@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "#EmentaEtnomatemática"
-tags: ementas
+title:  "Manifesto Arquivista, por Yuk Hui"
+tags: tradução
 ---
 
 ### #Tradução
