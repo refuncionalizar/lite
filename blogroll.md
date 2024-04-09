@@ -4,8 +4,6 @@ title: Blogroll
 permalink: /blogroll/
 ---
 
-#Blogroll
-
 ## Organizações
 
 [The New Centre](https://thenewcentre.org/)
