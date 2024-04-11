@@ -1,3 +1,3 @@
-[Portfólio](https://bolitto.github.io/)
+[Portfólio](https://bolitto.com.br)
 | [ResearchGate](https://www.researchgate.net/profile/Walter-Carvalho-3)
-| [https://refuncionalizar.github.io](https://refuncionalizar.github.io/)
+| [https://refuncionalizar.com.br](https://refuncionalizar.com.br)
