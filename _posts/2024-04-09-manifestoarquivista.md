@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Manifesto Arquivista, por Yuk Hui"
-tags: tradução
+tags: traduções
 ---
 
 ### #Tradução
