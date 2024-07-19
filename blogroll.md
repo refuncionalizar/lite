@@ -18,4 +18,6 @@ permalink: /blogroll/
 
 ## Blogs
 
+[Hack Education - Audrey Watters](http://hackeducation.com/)
+
 [Even Prometheus Started Small - Filipe Felizardo](https://evenprometheusstartedsmall.wordpress.com/)
