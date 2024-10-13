@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Bibliografia - Pensamento Computacional Crítico"
-tags: /curriculo
+tags: curriculo
 ---
 ### #Currículo
 
